@@ -1,0 +1,1 @@
+Uninstalls programs on Windows by searching for uninstall strings in the registry and executing them. The search is based on a string you choose. You can copy program description strings from Programs and Features (aka Add/Remove Programs (aka appwiz.cpl)) and use them as the match argument to uninstallByName.
